@@ -40,3 +40,15 @@ garmin-fit/
 .garth/
 
 test-users.json
+users.json
+
+# 虚拟环境
+.venv/
+
+# 生成的数据文件
+*.json
+garmin-fit/
+
+# VSCode 配置（可选）
+.vscode/
+users.json

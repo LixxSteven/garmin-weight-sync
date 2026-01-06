@@ -1,18 +1,18 @@
 {
     "users": [
         {
-            "username": "你的小米账户",
-            "password": "你的小米密码",
-            "model": "你的小米设备ID 如S400填 yunmai.scales.ms103",
+            "username": "19951746925",
+            "password": "Stysty071225",
+            "model": "yunmai.scales.ms103",
             "token": {
-                "userId": "",
-                "passToken": "",
-                "ssecurity": ""
+                "userId": 2435320997,
+                "passToken": "V1:pwROAesIuzMBPe5slLSsQsJmEHvUoqoskGWf8urJSPM/7rdAAYQwXJjeQkptYrp8J/CclAmUD40PDz3Sjrys4fO46SPkBFycP2iXmEMnrtjpycUs/1v4k93cGYIWWdRjUaecqMPpRoQc4aLlBgCV7XffzkfzdR6h9u8jka/AsGrfq/yLzeojdISxcn5aQZHG8/Rq9GVFfsh0ylThf61IvvE0zUnar3FXkzXFvB8SuHOwAEOz1ki/RO2uPPNMQiOJQAga2Txd2k4JIv4/1kfKmW6d5rS5oI7PcpvZIdEJvTQQYEZJDvwsiyNxCCTBk/rWKO5ZO844pKtue0Dokxt6kA==",
+                "ssecurity": "q/8x846TDUws34Cgt4UQaw=="
             },
             "garmin": {
-                "email": "你的佳明账户",
-                "password": "你的佳明密码",
-                "domain": "国际区填COM 国区填写 CN"
+                "email": "lixxsteven@gmail.com",
+                "password": "Stysty071225",
+                "domain": "COM"
             }
         }
     ]
